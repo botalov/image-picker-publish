@@ -3,7 +3,7 @@
   <groupId>io.carrotquest</groupId>
   <artifactId>image-picker</artifactId>
   <versioning>
-    <release>1.0.11-usRelease</release>
+    <release>1.0.12-usRelease</release>
     <versions>
       <version>1.0.0-debug</version>
       <version>1.0.0-release</version>
@@ -41,7 +41,11 @@
       <version>1.0.11-commonRelease</version>
       <version>1.0.11-usDebug</version>
       <version>1.0.11-usRelease</version>
+      <version>1.0.12-commonDebug</version>
+      <version>1.0.12-commonRelease</version>
+      <version>1.0.12-usDebug</version>
+      <version>1.0.12-usRelease</version>
     </versions>
-    <lastUpdated>20200820073445</lastUpdated>
+    <lastUpdated>20200914115233</lastUpdated>
   </versioning>
 </metadata>
